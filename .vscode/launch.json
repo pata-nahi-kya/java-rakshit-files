@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "ThreadCycle",
+            "request": "launch",
+            "mainClass": "multithreading.ThreadCycle",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "cycle_of_thread",
+            "request": "launch",
+            "mainClass": "cycle_of_thread",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "how_to_create_thread_interface",
+            "request": "launch",
+            "mainClass": "multithreading.how_to_create_thread_interface",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "how_to_create_thread",
+            "request": "launch",
+            "mainClass": "multithreading.how_to_create_thread",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "recursion.gcd",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "tower_of_hanoi",
+            "request": "launch",
+            "mainClass": "recursion.tower_of_hanoi",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "spiral_print_matrix",
+            "request": "launch",
+            "mainClass": "spiral_print_matrix",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist_selfMade",
+            "request": "launch",
+            "mainClass": "linkedlist.linkedlist_selfMade",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "frog_problem",
+            "request": "launch",
+            "mainClass": "codes.frog_problem",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "subsequences_of_string",
+            "request": "launch",
+            "mainClass": "recursion.subsequences_of_string",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "fibonaci",
+            "request": "launch",
+            "mainClass": "recursion.fibonaci",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "print_n_natural_numbers",
+            "request": "launch",
+            "mainClass": "recursion.print_n_natural_numbers",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "print_n_numbers",
+            "request": "launch",
+            "mainClass": "recursion.print_n_numbers",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "rotate_matrix_2d",
+            "request": "launch",
+            "mainClass": "array.rotate_matrix_2d",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "rotate_array_2d",
+            "request": "launch",
+            "mainClass": "array.rotate_array_2d",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "PascalTriangle",
+            "request": "launch",
+            "mainClass": "array.PascalTriangle",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "array.Matrix",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "RotateArray",
+            "request": "launch",
+            "mainClass": "array.RotateArray",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "union_intersection",
+            "request": "launch",
+            "mainClass": "array.union_intersection",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "rotate_array",
+            "request": "launch",
+            "mainClass": "array.rotate_array",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "sort_array",
+            "request": "launch",
+            "mainClass": "array.sort_array",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "roman_to_integer",
+            "request": "launch",
+            "mainClass": "codes.roman_to_integer",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "palindrome_number",
+            "request": "launch",
+            "mainClass": "codes.palindrome_number",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "two_pointer_approach",
+            "request": "launch",
+            "mainClass": "two_pointer_approach",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "copyContent",
+            "request": "launch",
+            "mainClass": "file_handling.copyContent",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "user_defined_exception",
+            "request": "launch",
+            "mainClass": "exception.user_defined_exception",
+            "projectName": "java project_76d3ea16"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java project_76d3ea16"
+        }
+    ]
+}
