@@ -27,9 +27,9 @@ public class github_notes {
 
     // example of a generic method with a wild card, this method can be used
     // with a list of any subtype of Building
-    public static void paintAllBuildings(List<? extends Building> buildings) {
-        buildings.forEach(Building::paint);
-    }
+    // public static void paintAllBuildings(List<? extends Building> buildings) {
+    //     buildings.forEach(Building::paint);
+    // }
 
     public static List<Integer> createList(int a) {
         List<Integer> list = new ArrayList<>();

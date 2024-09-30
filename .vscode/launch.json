@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inverse_adjoint",
+            "request": "launch",
+            "mainClass": "inverse_adjoint",
+            "projectName": "java_project_73df4f7"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_project_73df4f7"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "java_project_73df4f7"
+        },
+        {
+            "type": "java",
             "name": "pattern1",
             "request": "launch",
             "mainClass": "pattern1",
