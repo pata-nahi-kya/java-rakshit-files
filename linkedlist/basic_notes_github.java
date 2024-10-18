@@ -133,18 +133,18 @@ package linkedlist ;
    * @param position - location of the node to be deleted
    */
   public void deleteNthNode(int position) {
-      if (position <= this.size && this.head != null) {
-          Node currentNode = this.head;
-          Node prevNode = null;
-          for (int i = 0; i < position; i++) {
-              prevNode = currentNode;
-              currentNode = currentNode.next;
-          }
-          prevNode.next = currentNode.next;
-          this.size--;
-      }else{
-          System.out.println("No node exist at location: "+position);
-      }
+    //   if (position <= this.size && this.head != null) {
+    //       Node currentNode = this.head;
+    //       Node prevNode = null;
+    //       for (int i = 0; i < position; i++) {
+    //           prevNode = currentNode;
+    //           currentNode = currentNode.next;
+    //       }
+    //       prevNode.next = currentNode.next;
+    //       this.size--;
+    //   }else{
+    //       System.out.println("No node exist at location: "+position);
+    //   }
   }
 
   /**

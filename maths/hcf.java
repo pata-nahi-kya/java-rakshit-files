@@ -9,11 +9,14 @@ public class hcf {
         int a = number.nextInt();
         int b = number.nextInt();
 
+        int answer = 1 ;
+
         for(int i = 2 ; i<a & i<b ; i++){
             if(a%i==0 & b%i== 0){
-                System.out.println(i);
+                answer = answer * i;
             }
         }
+        System.out.println(answer);
         number.close();
 
     }

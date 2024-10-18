@@ -8,6 +8,7 @@ class InvalidAgeException extends Exception{
     
 }
 
+@SuppressWarnings("unused")
 class user_defined_exception {
     public static void vote_eligibility(int age) throws InvalidAgeException // declared exception here
     {

@@ -6,10 +6,65 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "subsequences_of_string",
+            "request": "launch",
+            "mainClass": "recursion.subsequences_of_string",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.fibonacci",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "tower_of_hanoi",
+            "request": "launch",
+            "mainClass": "recursion.tower_of_hanoi",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "basic_notes_github",
+            "request": "launch",
+            "mainClass": "linkedlist.basic_notes_github",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "hcf",
+            "request": "launch",
+            "mainClass": "maths.hcf",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "subsqquences_of_string_print",
+            "request": "launch",
+            "mainClass": "recursion.subsqquences_of_string_print",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "total_path_count_in_maze",
+            "request": "launch",
+            "mainClass": "recursion.total_path_count_in_maze",
+            "projectName": "java_project_73df4f7"
+        },
+        {
+            "type": "java",
             "name": "inverse_adjoint",
             "request": "launch",
-            "mainClass": "inverse_adjoint",
-            "projectName": "java_project_73df4f7"
+            "mainClass": "inverse_adjoint"
         },
         {
             "type": "java",

@@ -7,12 +7,12 @@ public class tower_of_hanoi {
             return;
         }
         tower(n-1, source, destination, helper);
-        System.out.println("transfer disk " + n + " from " + source  + " to " + helper);
+        System.out.println("transfer disk " + n + " from " + source  + " to " + destination);
         tower(n-1, helper, source, destination);
     }
     
     public static void main(String[] args) {
-        tower(3, "source", "helper", "destination");
+        tower(10, "source", "helper", "destination");
         
     }
 }

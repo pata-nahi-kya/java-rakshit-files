@@ -63,11 +63,7 @@ static int determinant(int A[][], int n)
 // Function to get adjoint of A[N][N] in adj[N][N].
 static void adjoint(int A[][],int [][]adj)
 {
-    if (N == 1)
-    {
-        adj[0][0] = 1;
-        return;
-    }
+    
 
     // temp is used to store cofactors of A[][]
     int sign = 1;

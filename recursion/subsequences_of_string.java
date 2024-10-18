@@ -18,7 +18,7 @@ public class subsequences_of_string {
             k = s.charAt(0) + k ;
             subsequence.add(k);
         }
-
+   
         subsequence.addAll(SmallSubSequence2);
         return subsequence;
     }

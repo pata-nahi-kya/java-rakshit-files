@@ -1,26 +1,15 @@
-// how to print all subsequence of string using recursion
 
-public class Hello {
-   public static double myPow(double x, int n) {
-        double answer = 1.00;
-        
-        if(n>0){
-            for(int i = n ; i > 0 ; i--){
-                answer = answer*x;}}
-        else if(n<0){
-            for(int i = n ; i<0 ; i++ ){
-                answer = answer/x;}}
-        
-        return answer;
-        
+import java.util.ArrayList;
+
+// Java program to find adjoint and inverse of a matrix
+class Hello
+{
+    public static void main(String[] args) {
+        ArrayList<String> s = new ArrayList<>();
+        ArrayList<String> p = new ArrayList<>();
+        p.add("rakshit");
+        p.add("kishor");
+        s=p ;
+        System.out.println(s);
     }
-
-public static void main(String[] args){
-   System.out.println(myPow(2, 10));
-   
-   }
-   
-
-
 }
-

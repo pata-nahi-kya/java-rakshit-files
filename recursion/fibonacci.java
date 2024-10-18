@@ -8,9 +8,7 @@ public class fibonacci {
         return printingFibonacci(n-1)+ printingFibonacci(n-2) ; 
     }
     public static void main(String[] args) {
-        for(int i = 0; i <= 10; i++) {
-            System.out.println(printingFibonacci(i));
-        }
+        System.out.println(printingFibonacci(2));
         
     }
 }
