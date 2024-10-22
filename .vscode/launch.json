@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "only_one_permutated_sum_target",
+            "request": "launch",
+            "mainClass": "recursion.only_one_permutated_sum_target",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "only_one_subsetsum_with_target",
+            "request": "launch",
+            "mainClass": "recursion.only_one_subsetsum_with_target",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "GfG",
+            "request": "launch",
+            "mainClass": "recursion.GfG",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "print_all_premutation_string",
+            "request": "launch",
+            "mainClass": "recursion.print_all_premutation_string",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "recursion.gcd",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
+            "name": "subSetSum",
+            "request": "launch",
+            "mainClass": "recursion.subSetSum",
+            "projectName": "java_project_73df4f7_8cef35f"
+        },
+        {
+            "type": "java",
             "name": "Hello",
             "request": "launch",
             "mainClass": "Hello",

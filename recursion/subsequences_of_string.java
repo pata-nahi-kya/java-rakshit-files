@@ -1,7 +1,8 @@
 package recursion;
-
 import java.util.ArrayList;
-
+//-----------------------------------------------
+//how to store subsequence in arraylist
+//-----------------------------------------------
 public class subsequences_of_string {
     static ArrayList<String> sub_sequence(String s ){
         ArrayList<String> subsequence = new ArrayList<>();
@@ -10,15 +11,11 @@ public class subsequences_of_string {
             subsequence.add("");
             return subsequence ;
         }
-        
-
-        ArrayList<String> SmallSubSequence2 =  sub_sequence(s.substring(1));
-        
+        ArrayList<String> SmallSubSequence2 =  sub_sequence(s.substring(1));       
         for(String k : SmallSubSequence2){
             k = s.charAt(0) + k ;
             subsequence.add(k);
         }
-   
         subsequence.addAll(SmallSubSequence2);
         return subsequence;
     }

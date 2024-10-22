@@ -4,6 +4,7 @@ public class gcd {
     static int find_gcd(int x , int y){ //long division problem
         if(y==0)return x;
         return find_gcd(y,x%y);}
+        
     static int find_gcd2(int x , int y){
         while(x%y != 0){
             int rem = x%y;

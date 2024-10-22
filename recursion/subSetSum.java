@@ -1,5 +1,5 @@
 package recursion;
-
+// how to print all possible sum of element of array
 public class subSetSum {
     static void subArray(int[] array , int idx , int sum){
         if(idx >= array.length){
